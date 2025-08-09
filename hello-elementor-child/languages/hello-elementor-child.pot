@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Elementor Child 1.0.0\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/Class_Theme.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/Elementor/widgets/class-sample-widget.php:19
+msgid "Sample Widget"
+msgstr ""
+
+#: inc/Elementor/widgets/class-sample-widget.php:33
+msgid "Title"
+msgstr ""
+
+#: inc/Elementor/widgets/class-sample-widget.php:35
+msgid "Hello world"
+msgstr ""

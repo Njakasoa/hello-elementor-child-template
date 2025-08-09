@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ruleset name="Hello Elementor Child">
+  <file>.</file>
+  <arg name="extensions" value="php"/>
+  <rule ref="WordPress-Core">
+    <exclude name="WordPress.Files.FileName"/>
+  </rule>
+  <exclude-pattern>*/vendor/*</exclude-pattern>
+  <exclude-pattern>*/node_modules/*</exclude-pattern>
+  <exclude-pattern>dist/*</exclude-pattern>
+</ruleset>
